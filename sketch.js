@@ -40,7 +40,7 @@ function setup() {
 
 
 function draw() {
-   background("lightBlue");
+   background("green");
   
   drawSprites();
   
